@@ -1,24 +1,54 @@
-<!-- 🐬 Live2D Flying Character -->
-<script src="https://unpkg.com/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
-<script>
-  L2Dwidget.init({
-    model: {
-      // This is the character — you can change this!
-      jsonPath: "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json",
-    },
-    display: {
-      position: "right",     // left or right
-      width: 150,
-      height: 300,
-      hOffset: 0,
-      vOffset: -20
-    },
-    mobile: {
-      show: true
-    },
-    react: {
-      opacityDefault: 0.8,
-      opacityOnHover: 0.2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f4f4f4;
+      padding-top: 50px;
     }
-  });
-</script>
+    h1 {
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>👋 Hi, I'm Prajwal</h1>
+  <p>Welcome to portfolio site!</p>
+  <p>Here I showcase projects like <strong>StockSense</strong>, ML models, and more.</p>
+
+  <!-- 🐬 Live2D Flying Character Script -->
+  <script src="https://unpkg.com/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
+  <script>
+    L2Dwidget.init({
+      model: {
+        jsonPath: "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json", // character model
+      },
+      display: {
+        position: "right", // 'left' or 'right'
+        width: 150,
+        height: 300,
+        hOffset: 0,
+        vOffset: -20,
+      },
+      mobile: {
+        show: true
+      },
+      react: {
+        opacityDefault: 0.8,
+        opacityOnHover: 0.2
+      }
+    });
+  </script>
+
+</body>
+</html>
