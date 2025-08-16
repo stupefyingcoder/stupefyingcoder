@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/data-datos-data-sellcom-sellcom-solutions-sellcom-gif-19625091" alt="data animation" width="400"/>
+  <img src="https://media.tenor.com/KYtFg1nEv0cAAAAi/data-datos.gif" alt="data animation" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prajwal Kulkarni</h1>
@@ -43,8 +43,3 @@
 <a href="https://www.linkedin.com/in/prajwal-kulkarni-398359153" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="mailto:prajwalkulk3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://github.com/stupefyingcoder" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-</p>
-
----
-
-⭐️ *"Turning data into decisions, one project at a time."*  
