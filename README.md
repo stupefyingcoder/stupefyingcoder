@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/KYtFg1nEv0cAAAAi/data-datos.gif" alt="data animation" width="400"/>
+  <img src="data-datos.gif" alt="data animation" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prajwal Kulkarni</h1>
