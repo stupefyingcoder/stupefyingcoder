@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="19625091" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/data-datos-data-sellcom-sellcom-solutions-sellcom-gif-19625091">Data Datos Sticker</a>from <a href="https://tenor.com/search/data-stickers">Data Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="fintech-tech animation" width="400"/>
+  <img src="https://tenor.com/view/data-datos-data-sellcom-sellcom-solutions-sellcom-gif-19625091" alt="data animation" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prajwal Kulkarni</h1>
@@ -48,4 +48,3 @@
 ---
 
 ⭐️ *"Turning data into decisions, one project at a time."*  
-
